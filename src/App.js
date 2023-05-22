@@ -1,7 +1,4 @@
-import {Component} from 'react'
-
+import PasswordManager from './Components/PasswordManager'
 import './App.css'
-
-const App = () => <div>Hello World</div>
-
+const App = () => <PasswordManager />
 export default App
